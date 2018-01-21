@@ -1,7 +1,6 @@
 from itertools import chain, combinations
 import numpy as np
 import pandas as pd
-import networkx as nx
 from math import log
 import matplotlib.pyplot as plt
 
