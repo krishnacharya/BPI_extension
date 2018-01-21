@@ -16,3 +16,7 @@ the association matrix the values deviate above or below this(multiple blue sqau
 ![](plots/newvsold_weightx.png?raw=true)
 
 ![](plots/newvsold_poplx.png?raw=true)
+
+# Data links
+* [OECD-international-migration-database](https://stats.oecd.org/Index.aspx?DataSetCode=MIG#)
+* [EUcountries-Weights-Population](https://en.wikipedia.org/wiki/Voting_in_the_Council_of_the_European_Union)
