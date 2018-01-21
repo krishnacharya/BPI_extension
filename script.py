@@ -1,4 +1,4 @@
-import paper_code as pc
+import bzext as pc
 import numpy as np
 
 def print_countries(indices):
