@@ -1,6 +1,7 @@
 # About
-Code for the extension of the Banzhaf power index to include associations
+* Code for the extension of the Banzhaf power index to include associations
 among players in a weighted voting game.
+* View the paper at [arXiv:1801.08029](https://128.84.21.199/abs/1801.08029)
 
 # Dependencies
 * [numpy](http://www.numpy.org/)
