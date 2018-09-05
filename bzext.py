@@ -17,7 +17,7 @@ class Country:
 		self.bz_index_assoc = 0.0
 	
 	def display(self):
-		print self.name+", "+"weight: "+str(self.weight) + " population: "+str(self.population)+" val: "+ str(self.val)
+		print(self.name+", "+"weight: "+str(self.weight) + " population: "+str(self.population)+" val: "+ str(self.val))
 
 def powerset(iterable):
     '''
